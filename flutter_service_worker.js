@@ -32,7 +32,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "d764ec83b4ea278b6e2950154d42336b
 "assets/fonts/MaterialIcons-Regular.otf": "829ac8cc63ff7759adaa51430cf1f621",
 "assets/fonts/Montserrat/Montserrat-Bold.ttf": "ed86af2ed5bbaf879e9f2ec2e2eac929",
 "assets/fonts/Montserrat/Montserrat-Regular.ttf": "5e077c15f6e1d334dd4e9be62b28ac75",
-"assets/images/app_icon.png": "8216402ed80223c2bc2a1b18b9f5a91d",
+"assets/images/app_icon.png": "62e86f006a412b5d62d30f5c6ce8988c",
 "assets/images/default_profilepic.png": "404926f6dcc8de25d90f26289cff152d",
 "assets/images/ic_menu.png": "6ea8252ce906d3e66135745cef0e84a2",
 "assets/images/img_cover_pemilihan.png": "0d77416e2e47d9ea5ed32fab699d0244",
@@ -57,9 +57,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "d764ec83b4ea278b6e2950154d42336b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "581eaefca4486f29b957f9b4c24a6cc4",
-"/": "581eaefca4486f29b957f9b4c24a6cc4",
-"main.dart.js": "e75e527a9c07af45713d2c5a325e801e",
+"index.html": "a85c49e49fc5b629e56ce60919c3f03c",
+"/": "a85c49e49fc5b629e56ce60919c3f03c",
+"main.dart.js": "e0c9118b87d5c45599d3573052035bf3",
 "manifest.json": "424b2b7fdd3617596fc326e735c5167f",
 "version.json": "b1b7aaea7476b8ce3a8e5a2d9942aa53"};
 // The application shell files that are downloaded before a service worker can
